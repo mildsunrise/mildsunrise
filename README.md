@@ -1,7 +1,13 @@
-Hi, I'm Alba 👋
+Hi! I'm an open source developer looking up to new challenges and low-level things (except electronics. don't make me do electronics, please. or PHP). Currently a [Node.js](https://nodejs.org) core developer, mostly TLS stuff there. 🏳️‍🌈 Soft, polyam, trans and very shy, but I like meeting new people 😊
 
- - I usually like to work on low-level stuff such as ⚙️ kernels, 🔬 forensics & reverse engineering, 📠 networks and 📡 SDR; sometimes also 🎥 A/V.
- - My favorite languages are Typescript, Python, Haskell, Elm & C++ (a bit).
- - Currently a [Node.js](https://nodejs.org) core developer, mostly TLS work there.
- - I'm shy, but I like to meet new people ✨
+### What I usually work on
 
+⚙️ Kernels  
+🔬 Forensics & reverse engineering  
+📠 Networks  
+📡 Radio  
+🎥 A/V (sometimes)  
+
+### Favorite languages
+
+Typescript, Python, Haskell, Elm & C++
