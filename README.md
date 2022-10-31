@@ -10,4 +10,4 @@ Hi! I'm an open source developer looking for new things to learn, challenges and
 
 ### Favorite languages
 
-Typescript, Python, Haskell, Elm & C++
+Typescript, Python, Haskell, Rust, C++
